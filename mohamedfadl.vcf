@@ -1,0 +1,24 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Fadl;Mohamed;;;
+FN:Mohamed Fadl
+ORG:
+ADR;TYPE=WORK:El-Mahalla El-Kubra, Egypt
+TITLE:Software Engineer
+TEL;TYPE=CELL:+201010782135
+TEL;TYPE=WORK:
+TEL;TYPE=HOME:
+TEL;TYPE=MSG:
+EMAIL;TYPE=WORK:mohamed.fadl2852@gmail.com
+URL;TYPE=Digital Business Card:https://mohamed-fadl.me/
+URL:https://mohamed-fadl.me/
+URL;TYPE=Website:https://mohamed-fadl.me/
+URL;TYPE=Telegram:https://t.me/fadl285
+URL;TYPE=WhatsApp:https://wa.me/+201551646315
+URL;TYPE=Facebook:https://facebook.com/fadl285
+URL;TYPE=GitHub:https://github.com/fadl285
+URL;TYPE=LinkedIn:https://linkedin.com/in/fadl285
+KEY;TYPE=PGP;ENCODING=b:
+NOTE:
+UID:EnBizCard-100193241
+END:VCARD
